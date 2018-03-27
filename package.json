@@ -1,6 +1,7 @@
 {
   "name": "angular-todo",
   "version": "1.0.0",
+  "description": "\"# angular-todo\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +15,5 @@
   "bugs": {
     "url": "https://github.com/sergiuy0z/angular-todo/issues"
   },
-  "homepage": "https://github.com/sergiuy0z/angular-todo#readme",
-  "description": ""
+  "homepage": "https://github.com/sergiuy0z/angular-todo#readme"
 }
