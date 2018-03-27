@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sergiu Leu <sergiu_leu@mail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sergiuy0z/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "bootstrap": "^4.0.0",
+    "angular-route": "^1.6.9"
+  }
+}
